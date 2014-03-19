@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.xjy.resume"
+          android:versionCode="1"
+          android:versionName="1.0">
+    <uses-sdk android:minSdkVersion="10"/>
+    <application android:label="@string/app_name" android:icon="@drawable/ic_launcher">
+        <activity
+                android:name="com.xjy.resume.MainActivity"
+                android:label="@string/app_name"
+                android:theme="@android:style/Theme.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity
+                android:name="com.xjy.resume.PagerActivity"
+                android:theme="@android:style/Theme.NoTitleBar">
+        </activity>
+        <activity
+                android:name="com.xjy.resume.HonorActivity"
+                android:theme="@style/AppHonorTheme">
+        </activity>
+        <activity
+                android:name="com.xjy.resume.SkillActivity"
+                android:theme="@style/AppSkillTheme">
+        </activity>
+    </application>
+
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+</manifest> 

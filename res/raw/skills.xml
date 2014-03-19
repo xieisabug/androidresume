@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skills>
+    <skill id="1">
+        <name>Java</name>
+        <point>90</point>
+        <introduce>Java是我学习的第二门语言,Java所有的课程我都是自学的,包括了J2SE和J2EE.能够使用SSH三大框架开发网站,并且基本理解框架原理.
+
+看过的书:Java编程思想、Struts2 in action、Spring in action、大话设计模式、Effective Java
+
+正在看的书:Spring技术内幕、编程珠玑、Java并发编程实战
+
+开发的项目:中南大学自考系统、学信公司OA系统、湖南第一师范数字资源中心
+        </introduce>
+    </skill>
+    <skill id="2">
+        <name>Android</name>
+        <point>75</point>
+        <introduce>Android也是我自学的一门课程,在观看了网上许多开发者的教学视频后,我也看了很多人写的教程,并且经常关注一些论坛,开发中虽然会遇到很多的问题,但是能在很短的时间解决.
+能够使用Android进行开发,熟悉Android编程并且能够熟练运用技巧进行创新.
+
+看过的书:Android开发入门
+
+正在看的书:深入理解Android
+
+制作的程序:课程表(可自动在网上抓取课程信息,并保存在手机数据库中)、日历、简历(就这现在看的这个小家伙)
+        </introduce>
+    </skill>
+    <skill id="3">
+        <name>数据库</name>
+        <point>70</point>
+        <introduce>使用MySQL和Oracle开发过项目,使用过MongoDB和SQLite,能熟练使用数据库并能解决开发过程中所遇到的数据库问题.
+
+开发的项目:中南大学自考系统、学信公司OA系统、湖南第一师范数字资源中心
+        </introduce>
+    </skill>
+    <skill id="4">
+        <name>前端</name>
+        <point>75</point>
+        <introduce>熟悉HTML和CSS,能够按照效果图开发出相应的界面.能熟练使用Jquery、Moontools等库,也对Node.js和AngularJs等有一定的了解.在开发中,经常担任前端的界面开发,并且能够胜任全部工作.
+
+看过的书:Javascript权威指南
+
+开发的项目:中南大学自考系统、湖南第一师范数字资源中心
+制作的网站:HTML5植物大战僵尸
+        </introduce>
+    </skill>
+    <skill id="5">
+        <name>学习能力</name>
+        <point>99</point>
+        <introduce>我所学的大部分技术,基本都是我自学完成的.从大一开始自学C语言和算法;大二自学Java、MySQL、J2EE,并且在外接了项目做;大三自学了设计模式、Android,并且进入了某公司实习;大四为学校开发数字资源中心.
+
+看过的书:大话设计模式、算法导论（不才，不能研究透彻）、软件工程
+学习计划:目前已经在钻研Android,并且对Hadoop有一定的了解,对这两门技术未来的前景看好,所以之后的主要学习目标是这两门技术.
+        </introduce>
+    </skill>
+</skills>

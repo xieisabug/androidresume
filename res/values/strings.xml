@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Resume</string>
+    <string name="action_settings">Settings</string>
+    <string name="myName">我的名字：谢景扬</string>
+    <string name="myAge">我的年龄：21</string>
+    <string name="mySchool">我的学校：湖南第一师范</string>
+    <string name="myHabit">我的爱好：篮球，阅读</string>
+
+    <string-array name="honors">
+        <item>软件设计师</item>
+        <item>创新实验项目</item>
+        <item>校级ACM比赛三等奖</item>
+        <item>多次代表学校参加省级程序设计比赛</item>
+        <item>奖学金</item>
+        <item>学校ACM二等奖</item>
+        <item>学生会权益服务部部长</item>
+        <item>社团优秀会员</item>
+    </string-array>
+</resources>

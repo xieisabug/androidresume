@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_centerInParent="true"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:xchart="http://schemas.android.com/apk/res-auto"
+        >
+    <com.xjy.resume.view.Ring
+            android:layout_width="230dp"
+            android:layout_height="230dp"
+            xchart:skillText="Javascript"
+            xchart:skillTextColor="#ff121212"
+            xchart:ringWidth="20dp"
+            xchart:skillPoint="70"
+            xchart:skillColor="#ff50ff35"
+            xchart:noneColor="#ff445544"
+            android:layout_centerHorizontal="true"/>
+</RelativeLayout>

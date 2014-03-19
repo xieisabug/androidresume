@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Pie">
+        <attr name="displayNames" format="string"/>
+        <attr name="displayFractions" format="string"/>
+    </declare-styleable>
+
+    <declare-styleable name="Ring">
+        <attr name="ringWidth" format="dimension"/>
+        <attr name="noneColor" format="color"/>
+        <attr name="skillColor" format="color"/>
+        <attr name="skillText" format="string"/>
+        <attr name="skillPoint" format="integer"/>
+        <attr name="skillTextColor" format="color"/>
+    </declare-styleable>
+</resources>

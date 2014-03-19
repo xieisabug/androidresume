@@ -1,0 +1,57 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+    <style name="AppSkillTheme" parent="android:Theme.NoTitleBar">
+        <item name="android:windowAnimationStyle">@style/skillAnimation</item>
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+    <style name="AppHonorTheme" parent="android:Theme.NoTitleBar">
+        <item name="android:windowAnimationStyle">@style/honorAnimation</item>
+    </style>
+
+    <style name="honorAnimation" parent="@android:style/Animation">
+        <item name="android:activityOpenEnterAnimation">@anim/bottomslidein_anim</item>
+        <item name="android:activityOpenExitAnimation">@anim/fadeout_anim</item>
+        <item name="android:activityCloseEnterAnimation">@anim/fadein_anim</item>
+        <item name="android:activityCloseExitAnimation">@anim/bottomslideout_anim</item>
+    </style>
+
+    <style name="skillAnimation" parent="@android:style/Animation">
+        <item name="android:activityOpenEnterAnimation">@anim/zoomin_anim</item>
+        <item name="android:activityOpenExitAnimation">@anim/zoomout_anim</item>
+        <item name="android:activityCloseEnterAnimation">@anim/zoomin_anim</item>
+        <item name="android:activityCloseExitAnimation">@anim/zoomout_anim</item>
+    </style>
+
+    <style name="AppBackground">
+        <item name="android:background">#2F8FBF</item>
+    </style>
+    <style name="AppChooseItem">
+        <item name="android:background">#30658F</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+    <style name="AppTextItem">
+        <item name="android:background">#30658F</item>
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+</resources>

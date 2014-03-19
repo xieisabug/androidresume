@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<honors>
+    <honor id="1">
+        <name>软件设计师</name>
+        <time>2013</time>
+        <introduce>2013年，我参加了软考中级，取得了软件设计师。上午成绩54分，下午成绩60分。</introduce>
+    </honor>
+
+    <honor id="2">
+        <name>创新实验项目</name>
+        <time>2013</time>
+        <introduce>由学校公共实验管理中心邀请，参加创新实验项目的编写。使用Java开发，运用SSH三大框架，MySQL作为数据库，前端大量运用Ajax，用户界面体验非常良好。并在期刊上发表两篇论文。</introduce>
+    </honor>
+    <honor id="3">
+        <name>校级ACM比赛三等奖</name>
+        <time>2011</time>
+        <introduce>在湖南涉外经济学院与湖南第一师范组织的程序设计大赛中获得三等奖。</introduce>
+    </honor>
+    <honor id="4">
+        <name>多次代表学校参加省级程序设计比赛</name>
+        <time>2010-2012</time>
+        <introduce>多次被学校选择参加省级程序设计大赛和大学生程序设计比赛。但是遗憾没有获奖。</introduce>
+    </honor>
+    <honor id="5">
+        <name>奖学金</name>
+        <time>大三、大四</time>
+        <introduce>大三、大四连续两年获得校级三等奖学金。</introduce>
+    </honor>
+    <honor id="6">
+        <name>学校ACM二等奖</name>
+        <time>2011</time>
+        <introduce>学校组织第四届程序设计竞赛中获得二等奖。</introduce>
+    </honor>
+    <honor id="7">
+        <name>学生会权益服务部部长</name>
+        <time>2010</time>
+        <introduce>在2010年担任系部学生会权益服务部部长一年。</introduce>
+    </honor>
+    <honor id="8">
+        <name>社团优秀会员</name>
+        <time>2011</time>
+        <introduce>2010年入校时加入第一师范爱心社，2011年被选为优秀会员。</introduce>
+    </honor>
+</honors>
